@@ -13,5 +13,7 @@ Saved models for reuse
 Python, TensorFlow/Keras, NLTK, Pandas, NumPy
 
 -- Run
+
 python src/train.py
+
 python src/prediction.py
